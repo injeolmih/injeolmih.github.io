@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Términos y Condiciones</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background-color: #121212;
+      color: #ffffff;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1, h2 {
+      color: #00bcd4;
+    }
+    a {
+      color: #00bcd4;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Términos y Condiciones de Servicio</h1>
+    <p>
+      Bienvenido a <strong>ConocimApp</strong>. Al utilizar nuestra aplicación, aceptas cumplir con los siguientes términos y condiciones. Si no estás de acuerdo con estos términos, no uses nuestros servicios.
+    </p>
+    <h2>1. Uso del servicio</h2>
+    <p>Nuestra plataforma está destinada a proporcionar [breve descripción del servicio]. Debes usarla de manera responsable y legal.</p>
+    <h2>2. Cuentas de usuario</h2>
+    <ul>
+      <li>Eres responsable de mantener la seguridad de tu cuenta.</li>
+      <li>No puedes compartir tu cuenta con terceros ni realizar actividades que puedan comprometer la seguridad del servicio.</li>
+    </ul>
+    <h2>3. Propiedad intelectual</h2>
+    <p>Todos los derechos relacionados con el contenido de la aplicación pertenecen a <strong>ConocimApp</strong>. No puedes reproducir, distribuir ni modificar el contenido sin nuestro consentimiento.</p>
+    <h2>4. Limitación de responsabilidad</h2>
+    <p>No seremos responsables de daños directos, indirectos o incidentales que resulten del uso o la incapacidad de usar nuestro servicio.</p>
+    <h2>5. Cambios a los términos</h2>
+    <p>Nos reservamos el derecho de modificar estos términos en cualquier momento. Te notificaremos publicando los términos actualizados en esta página.</p>
+    <p>Si tienes preguntas sobre estos términos, contáctanos en <a href="mailto:soporte@conocimapp.com">soporte@conocimapp.com</a>.</p>
+  </div>
+</body>
+</html>
