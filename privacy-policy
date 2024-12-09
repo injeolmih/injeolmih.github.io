@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Política de Privacidad</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background-color: #121212;
+      color: #ffffff;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1, h2 {
+      color: #00bcd4;
+    }
+    a {
+      color: #00bcd4;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Política de Privacidad</h1>
+    <p>
+      En <strong>ConocimApp</strong>, valoramos tu privacidad y nos comprometemos a proteger la información personal que compartes con nosotros. Esta política explica cómo recopilamos, usamos y protegemos tus datos.
+    </p>
+    <h2>1. Información que recopilamos</h2>
+    <ul>
+      <li>Datos personales como nombre, dirección de correo electrónico e imagen de perfil cuando inicias sesión con Google o Facebook.</li>
+      <li>Información técnica como dirección IP, tipo de navegador y datos de navegación.</li>
+    </ul>
+    <h2>2. Cómo usamos tu información</h2>
+    <p>Utilizamos tu información para personalizar tu experiencia, proporcionarte acceso a nuestras funciones y mejorar nuestra aplicación.</p>
+    <h2>3. Cómo compartimos tu información</h2>
+    <p>No vendemos, alquilamos ni compartimos tu información personal con terceros, excepto cuando sea necesario para el funcionamiento del servicio, como proveedores de autenticación.</p>
+    <h2>4. Seguridad</h2>
+    <p>Implementamos medidas técnicas y organizativas para proteger tu información personal contra el acceso no autorizado, la pérdida o el mal uso.</p>
+    <h2>5. Cambios a esta política</h2>
+    <p>Nos reservamos el derecho de actualizar esta política de privacidad. Te notificaremos sobre cambios significativos publicando la nueva versión en esta página.</p>
+    <p>Si tienes preguntas sobre esta política, contáctanos en <a href="mailto:soporte@conocimapp.com">soporte@conocimapp.com</a>.</p>
+  </div>
+</body>
+</html>
